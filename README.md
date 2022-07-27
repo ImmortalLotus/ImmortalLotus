@@ -16,5 +16,5 @@
   </h1>
 </div>
   <div align="center">
-  <img src="img/funny.jpg" width="600" height="300"/>
+  <img src="img/funny.jpg" width="" height=""/>
 </div>
