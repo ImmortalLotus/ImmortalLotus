@@ -10,5 +10,5 @@
   </a>
 </div>
 <div>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=ImmortalLotus&style=for-the-badge">
 </div>
