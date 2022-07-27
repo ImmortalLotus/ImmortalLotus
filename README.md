@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="img/" width="100"/>
+  <img src="img/tela-inicial.gif" width="100"/>
 </div>
