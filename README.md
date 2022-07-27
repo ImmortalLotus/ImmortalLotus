@@ -10,5 +10,5 @@
   </a>
 </div>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=ImmortalLotus&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=ImmortalLotus&style=for-the-badge" align="center">
 </div>
