@@ -24,8 +24,8 @@ When I'm free you'll find me tinkering with code(I'm working on building a custo
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 # The Github Stats
-[![J. Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImmortalLotus&theme=transparent&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage)](https://github.com/ImmortalLotus/github-readme-stats)
+[![J. Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImmortalLotus&theme=transparent&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage)](https://github.com/ImmortalLotus/)
 # The programming stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalLotus&langs_count=6&layout=compact&theme=transparent)](https://github.com/ImmortalLotus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalLotus&langs_count=6&layout=compact&theme=transparent)](https://github.com/ImmortalLotus/)
 ## Time stats
-[![Time I spend on programming langs](https://github-readme-stats.vercel.app/api/wakatime?username=ImmortalLotus&theme=transparent)](https://github.com/ImmortalLotus/github-readme-stats)
+[![Time I spend on programming langs](https://github-readme-stats.vercel.app/api/wakatime?username=ImmortalLotus&theme=transparent)](https://github.com/ImmortalLotus)
