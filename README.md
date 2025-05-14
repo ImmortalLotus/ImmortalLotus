@@ -26,6 +26,6 @@ When I'm free you'll find me tinkering with code(I'm working on building a custo
 # The Github Stats
 [![J. Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImmortalLotus&theme=transparent&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage)](https://github.com/ImmortalLotus/github-readme-stats)
 # The programming stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalLotus&langs_count=5&layout=compact&theme=transparent)](https://github.com/ImmortalLotus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalLotus&langs_count=6&layout=compact&theme=transparent)](https://github.com/ImmortalLotus/github-readme-stats)
 ## Time stats
 [![Time I spend on programming langs](https://github-readme-stats.vercel.app/api/wakatime?username=ImmortalLotus&theme=transparent)](https://github.com/ImmortalLotus/github-readme-stats)
