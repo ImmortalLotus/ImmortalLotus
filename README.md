@@ -27,5 +27,5 @@ When I'm free you'll find me tinkering with code(I'm working on building a custo
 [![J. Thomas's GitHub stats](https://github-readme-stats-five-zeta-12.vercel.app/api?username=ImmortalLotus&theme=transparent&include_all_commits=true&hide_rank=true)](https://github.com/ImmortalLotus/)
 # The programming stats
 [![Top Langs](https://github-readme-stats-five-zeta-12.vercel.app/api/top-langs/?username=ImmortalLotus&langs_count=5&layout=compact&theme=transparent&hide=html)](https://github.com/ImmortalLotus/)
-## Time stats
+## Time stats(May 15th 2025 onwards)
 [![Time I spend on programming langs](https://github-readme-stats.vercel.app/api/wakatime?username=ImmortalLotus&theme=transparent)](https://github.com/ImmortalLotus)
